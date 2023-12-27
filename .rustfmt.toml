@@ -1,0 +1,8 @@
+# Densify the code horizontally, so more of it fits the screen
+use_small_heuristics="Max"
+# More flexible as spacing depends on tab size
+hard_tabs=true
+# Shorter code lines
+use_field_init_shorthand=true
+# Shorter code lines
+use_try_shorthand=true
